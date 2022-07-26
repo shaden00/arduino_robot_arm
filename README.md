@@ -1,7 +1,8 @@
 # arduino_robot_arm
-In this task we will use some of Ros packages to see how we could move the robot arm , and we can do it in simulation and real-life, i tested these packages under ros noetic and ubuntu 20.04
-
-ارجع اكتب السميوليشن و الموف و الجوينت
+In this task we will use some of Ros packages to see how we could move the robot arm , and we can do it in simulation and real-life, i tested these packages under ros noetic and ubuntu 20.04 , and Controlling the robot arm by 
+1.  joint_state_publisher
+2.  Moveit and kinematics
+**using Rviz simulator**
 
 # Dependencies
 * first we need to run this instruction 
@@ -40,4 +41,4 @@ rosrun rosserial_arduino make_libraries.py .
 4. so if you open the Arduino IDE , you should see ros_lib listed under examples
 
 ![image](https://user-images.githubusercontent.com/97844314/181125928-cd3a934d-3f97-4c4f-b71c-3e0718c127af.png)
-
+ 
