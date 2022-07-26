@@ -18,12 +18,12 @@ $ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 # Configuring Arduino with ROS
 so here we will Configur Arduino with ROS by these steps
 1. install Arduino IDE in Ubuntu from [HERE](https://www.arduino.cc/en/software)
-..* extraxt the folder
-..* open the terminal inside the folder
-..* run the instruction `$ sudo ./install.sh ` 
-..* now open the Arduino IDE to make sure that it installed successfully
+⋅⋅* extraxt the folder
+⋅⋅* open the terminal inside the folder
+⋅⋅* run the instruction `$ sudo ./install.sh ` 
+⋅⋅* now open the Arduino IDE to make sure that it installed successfully
 2. Install the arduino package , by Installing Binaries on the ROS workstation
-..* run these instructions
+⋅⋅* run these instructions
 ```
 sudo apt-get install ros-noetic-rosserial-arduino
 sudo apt-get install ros-noetic-rosserial
