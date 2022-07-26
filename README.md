@@ -39,5 +39,5 @@ rosrun rosserial_arduino make_libraries.py .
 
 4. so if you open the Arduino IDE , you should see ros_lib listed under examples
 
-![alt text](![image](https://user-images.githubusercontent.com/97844314/181125928-cd3a934d-3f97-4c4f-b71c-3e0718c127af.png)
+![](![image](https://user-images.githubusercontent.com/97844314/181125928-cd3a934d-3f97-4c4f-b71c-3e0718c127af.png)
 )
