@@ -4,7 +4,7 @@ In this task we will use some of Ros packages to see how we could move the robot
 ارجع اكتب السميوليشن و الموف و الجوينت
 
 # Dependencies
-* fist we need to run this instruction 
+* first we need to run this instruction 
 `$ rosdep install --from-paths src --ignore-src -r -y` 
 
 * second i installed noetic distro package by run these instructions 
@@ -31,8 +31,8 @@ sudo apt-get install ros-noetic-rosserial
 3. install ros library into the Arduino Environment , The preceding installation steps created the necessary libraries, now the following will create the ros_lib folder that the Arduino build environment needs to enable Arduino programs to interact with ROS
 ```
 cd <sketchbook>/libraries
-  rm -rf ros_lib
-  rosrun rosserial_arduino make_libraries.py .
+rm -rf ros_lib
+rosrun rosserial_arduino make_libraries.py .
 
 ```
 **<sketchbook> is the directory where the Linux Arduino environment saves your sketches. Typically this is a directory called sketchbook or Arduino in your home directory. e.g cd ~/Arduino/libraries**
