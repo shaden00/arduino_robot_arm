@@ -2,6 +2,7 @@
 In this task we will use some of Ros packages to see how we could move the robot arm , and we can do it in simulation and real-life, i tested these packages under ros noetic and ubuntu 20.04 , and Controlling the robot arm by 
 1.  joint_state_publisher
 2.  Moveit and kinematics
+
 **using Rviz simulator**
 
 # Dependencies
