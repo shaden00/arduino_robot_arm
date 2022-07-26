@@ -36,3 +36,8 @@ rosrun rosserial_arduino make_libraries.py .
 
 ```
 **(sketchbook) is the directory where the Linux Arduino environment saves your sketches. Typically this is a directory called sketchbook or Arduino in your home directory. e.g cd ~/Arduino/libraries**
+
+4. so if you open the Arduino IDE , you should see ros_lib listed under examples
+
+![alt text](![image](https://user-images.githubusercontent.com/97844314/181125928-cd3a934d-3f97-4c4f-b71c-3e0718c127af.png)
+)
