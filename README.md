@@ -62,3 +62,28 @@ and these is my results
 
 ![image](https://user-images.githubusercontent.com/97844314/181157174-95ebd50c-6354-4c06-ae35-ee48d5516eed.jpeg)
 
+
+
+
+2. to Controll the robot arm by Moveit and kinematics do this instruction in the terminal 
+
+
+`$ roslaunch moveit_pkg demo.launch`
+
+
+
+
+* ![image](https://user-images.githubusercontent.com/97844314/181158791-a7c8312f-d269-4872-a22d-0f03d6939949.jpeg)
+
+
+
+
+
+* ![image](https://user-images.githubusercontent.com/97844314/181158932-08f7ba6f-51bd-4ac1-ae3b-f62e8fc7c7a1.jpeg)
+
+
+
+
+* ![image](https://user-images.githubusercontent.com/97844314/181159086-c8b1ca7a-d877-4311-bc19-aebf7771425d.jpeg)
+
+
