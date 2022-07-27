@@ -45,4 +45,12 @@ rosrun rosserial_arduino make_libraries.py .
  
 # Running
 * run this code in arduino [arduino_code](https://github.com/smart-methods/arduino_robot_arm/blob/main/arduino_code/arduino_code.ino)
+* to Controll the robot arm by joint_state_publisher do this instruction in the terminal 
+`$ roslaunch robot_arm_pkg check_motors.launch`
+and these is my results 
+![image](https://user-images.githubusercontent.com/97844314/181157103-00d5317b-afb0-4c95-8358-805cab55497e.jpeg)
+
+
+
+![image](https://user-images.githubusercontent.com/97844314/181157174-95ebd50c-6354-4c06-ae35-ee48d5516eed.jpeg)
 
